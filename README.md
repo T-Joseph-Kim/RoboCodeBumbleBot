@@ -3,7 +3,7 @@
 ### **BumbleBot - AI-Driven Robocode Battle Bot**
 ![Screenshot 2024-08-15 232846](https://github.com/user-attachments/assets/dee2e336-cd9f-43c9-8cac-5db3c2682a42)
 ![image](https://github.com/user-attachments/assets/df13a2f1-5464-4700-9c6e-2d16c112b27e)
-\\**Beats benchmark AI bot by 70%.**
+\**Beats benchmark AI bot by 70%.**
 **Description:**
 BumbleBot is an AI-driven robot developed for the Robocode programming game. It uses a state-based architecture to navigate the battlefield, scan for enemies, and engage in combat, adapting its strategy based on various conditions like proximity to enemies, walls, and its health status.
 
